@@ -465,7 +465,7 @@ header .form i {
     display: flex;
     background-image: url(/image/design-features.jpg);
     background-size: cover;
-  background-color: #1f2021;
+  background: #1f2021;
 
     position: relative;
     overflow: hidden;
@@ -1190,8 +1190,7 @@ header .form i {
     background-size: cover;
     position: relative;
     color: white;
-  background-color: #1f2021;
-
+    background: #1f2021;
 }
 .mail::before {
   content: "";
